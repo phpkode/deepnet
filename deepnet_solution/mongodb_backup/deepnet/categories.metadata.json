@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"deepnet.categories"},{"v":{"$numberInt":"2"},"unique":true,"key":{"c_id":{"$numberInt":"1"}},"name":"c_id_1","ns":"deepnet.categories","background":true}],"uuid":"3ef8f7be41424b0c865cf8a9645ee804"}
